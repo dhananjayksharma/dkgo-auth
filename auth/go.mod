@@ -1,4 +1,4 @@
-module dkgosql.com/dkgo-auth
+module dkgosql.com/dkgo-auth/auth
 
 go 1.16
 
