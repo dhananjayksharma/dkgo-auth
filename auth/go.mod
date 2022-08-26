@@ -1,4 +1,4 @@
-module dkgosql.com/dkgo-auth/auth
+module github.com/dhananjayksharma/dkgo-auth/auth
 
 go 1.16
 
